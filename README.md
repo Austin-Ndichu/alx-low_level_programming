@@ -1,1 +1,1 @@
-# alx-low_level_proramming
+# alx-low_level_programming
