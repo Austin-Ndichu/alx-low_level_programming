@@ -1,0 +1,1 @@
+my arrarys pointers
