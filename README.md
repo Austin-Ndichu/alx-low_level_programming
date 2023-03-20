@@ -1,1 +1,1 @@
-malloc checked c memory allocation
+structures read e file
